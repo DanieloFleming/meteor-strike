@@ -97,11 +97,9 @@
         game.mouseX = 100;
         game.mouseY = 100;
 
-        //container.addEventListener('mousedown', handleMouseClick);
-        //container.addEventListener('mouseup', handleMouseClick);
         container.addEventListener('mousemove', handleMouseMove);
         container.addEventListener('touchstart', handleTouch);
-         container.addEventListener('touchmove', handleTouch);
+        container.addEventListener('touchmove', handleTouch);
         window.addEventListener('resize', handleResize);
     }
 

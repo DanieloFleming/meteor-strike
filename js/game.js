@@ -1590,4 +1590,4 @@ var AudioBook = {
     initialize();
 
 })(game.library.CanvasManager, game.library.SpriteManager, game.library.AudioManager, game.library.GameArray);
-//# sourceMappingURL=game.js.map
+// sourceMappingURL=game.js.map
